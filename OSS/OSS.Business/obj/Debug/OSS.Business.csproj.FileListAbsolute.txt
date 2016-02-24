@@ -1,0 +1,13 @@
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\OSS.Business.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\OSS.Business.pdb
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\OSS.Data.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\EntityFramework.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\OSS.Data.pdb
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\EntityFramework.xml
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\obj\Debug\OSS.Business.csprojResolveAssemblyReference.cache
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\obj\Debug\OSS.Business.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\obj\Debug\OSS.Business.pdb
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\OSS.Business.dll.config
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Business\bin\Debug\Aliyun.OSS.dll

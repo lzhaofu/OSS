@@ -1,0 +1,10 @@
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\obj\Debug\OSS.Data.csprojResolveAssemblyReference.cache
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\bin\Debug\OSS.Data.dll.config
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\bin\Debug\OSS.Data.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\bin\Debug\OSS.Data.pdb
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\bin\Debug\EntityFramework.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\bin\Debug\EntityFramework.xml
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\obj\Debug\OSS.Data.dll
+c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Data\obj\Debug\OSS.Data.pdb
