@@ -16,3 +16,6 @@ c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Win\bin\Debug\Enti
 c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Win\bin\Debug\OSS.Business.dll
 c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Win\bin\Debug\OSS.Business.pdb
 c:\users\donson\documents\visual studio 2012\Projects\OSS\OSS.Win\bin\Debug\Aliyun.OSS.dll
+F:\OSS\trunk\OSS\OSS.Win\bin\Debug\OSS.Win.exe.config
+F:\OSS\trunk\OSS\OSS.Win\obj\Debug\OSS.Win.exe
+F:\OSS\trunk\OSS\OSS.Win\obj\Debug\OSS.Win.pdb
